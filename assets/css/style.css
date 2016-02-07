@@ -1,0 +1,50 @@
+body {
+	background-color: #dddddd;
+}
+h1 {
+ color: #4aaaa5;
+ margin-right:20px;
+ font-family: Times, serif;
+}
+
+section {
+	padding: 20px;
+	
+}
+section.links {
+	float:right;
+}
+#name {
+	margin-left: 60px;
+	color:white;
+	background:#4aaaa5;
+	font-size:20px;
+	width:12%;
+}
+img.main {
+	float:left;
+	width:300px;
+	height:200px;
+	margin-right:20px;
+}
+img.lnkpics {
+	float:right;
+	width:30px;
+	height:20px;
+	margin-right:20px;
+}
+#boutme {
+	font-family: arial;
+}
+#connectbox {
+  font-size:20px;
+  color:teal;
+  background-color:white;
+  float:right;
+  
+  width: 200px;
+  height: 100px;
+  margin: 10px 10px 10px 10px;
+  padding-left: 30px;
+ 
+}
