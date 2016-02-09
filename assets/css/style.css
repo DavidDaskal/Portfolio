@@ -6,7 +6,25 @@ h1 {
  margin-right:20px;
  font-family: Times, serif;
 }
+#nmemail {
+  padding-left: 20px;
+  width: 70%;
+  height: 20px;
+  border-style: solid;
+  border-color:gray;
+}
+#msg {
+  width: 70%;
+  height: 300px;
+  margin-bottom: 20px;
+  border-style: solid;
+  border-color:gray;
+}
 
+#hrbreak {
+	height:2px;
+	background: gray;
+}
 section {
 	padding: 20px;
 	
@@ -29,10 +47,17 @@ img.main {
 }
 img.lnkpics {
 	float:right;
-	width:30px;
-	height:20px;
+	width:50px;
+	height:40px;
 	margin-right:20px;
 }
+img.portfolio  {
+	float:left;
+	width:150px;
+	height:100px;
+
+}
+
 #boutme {
 	font-family: arial;
 }
@@ -41,10 +66,13 @@ img.lnkpics {
   color:teal;
   background-color:white;
   float:right;
-  
+  padding-left: 10px;
   width: 200px;
-  height: 100px;
+  height: 120px;
   margin: 10px 10px 10px 10px;
-  padding-left: 30px;
- 
+}
+footer {
+	background: #666666;
+	padding: 20px;
+	clear: both;
 }
